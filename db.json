@@ -1,10 +1,10 @@
 {
   "city": [
-    {"id": 1, "name": "Москва", "image": "/images/moskow.jpg"},
+    {"id": 1, "name": "Москва", "image": "/moskow.jpg"},
     {"id": 2, "name": "Казань"}
   ],
   "food": [
-    {"id": 1, "name": "Плов", "image": "/images/plov.webp"},
+    {"id": 1, "name": "Плов", "image": "/plov.webp"},
     {"id": 2, "name": "Борщ"}
   ]
 }
